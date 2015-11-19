@@ -1,2 +1,2 @@
 # etracker-api-python
-Just a code snippet for handling the eTracker API with Python
+Just a Python code snippet for getting web analytics data from the eTracker API (since their docs don't have a Python example).
